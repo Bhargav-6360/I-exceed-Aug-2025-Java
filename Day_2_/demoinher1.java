@@ -37,7 +37,7 @@ class demoinher1
 		public static void main(String[] args)
 		{
 			Scorpio scorpio = new Scorpio("Mahindra",true,"Scorpio","XUV500","Black");
-			//scorpio.getCarDetails();
-			//scorpio.displayCarModel();
+			scorpio.getCarDetails();
+			scorpio.displayCarModel();
 		}
 	}
