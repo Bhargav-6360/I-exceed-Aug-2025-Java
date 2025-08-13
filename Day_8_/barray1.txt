@@ -1,0 +1,1 @@
+this is the sample string to be embed into multiple source
